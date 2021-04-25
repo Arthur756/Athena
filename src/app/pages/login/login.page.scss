@@ -1,0 +1,46 @@
+ion-slides{
+    height: 90%;
+}
+
+.login-back{
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    background: rgb(19, 19, 19);
+    
+}
+
+ion-img{
+    position: relative;
+    height: 10%;
+    margin: 20%;
+}
+
+
+span{
+    position: relative;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 40%;
+    font-size: 25px;
+}
+
+ion-slides {
+    .slide-inner {
+        width: 75%;
+        color: #fff;
+        border-radius: 10px;
+
+        ion-item {
+            --background: rgba(129, 37, 204, 0.603);
+            --border-radius: 10px;
+
+            ion-input {
+                --color: rgb(255, 255, 255);
+            }
+        }
+    }
+}
+
