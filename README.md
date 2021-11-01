@@ -1,10 +1,6 @@
 # ATHENA
 Athena
 
-
-![thena|420x397](https://github.com/Arthur756/Athena/blob/233627276ddd60c278622738ffd2fa9234c6fbac/ATHENA%20LOGO.jpg)
-
-
 <p align="center" style="background-color: #F8A65D;">
     <img alt="oss image" src="https://github.com/Arthur756/Athena/blob/4ec8e01850cddb4e4d66ce6a16e2c15b2418f4eb/Athena%20logo%202.png" width="200px">
     <h1 align="center">Athena App</h1>
@@ -43,26 +39,17 @@ This app was made with [Ionic](https://ionicframework.com), you can download the
 
 # Desktop / TV version
 
-<img src="https://github.com/Arthur756/Athena/blob/4ec8e01850cddb4e4d66ce6a16e2c15b2418f4eb/ATHENA%20DESKTOP.jpg" alt="screenshot-2" width="300">
+<img src="https://github.com/Arthur756/Athena/blob/4ec8e01850cddb4e4d66ce6a16e2c15b2418f4eb/ATHENA%20DESKTOP.jpg" alt="screenshot-2" width="680">
 
 ---
 
-## :hammer: Fluxo
+## :hammer: flowchart 
 
-Run the following commands:
+Moves:
 
-```bash
-# Clone this repo
-git clone https://github.com/shootismoke/mobile-app && cd shoot-i-smoke
-# Install dependencies
-yarn install
+<img src="https://github.com/Arthur756/Athena/blob/bf6d116ecfeb8ddfb0294509a48edf09f91e48e9/ATHENA%20FLUXOGRAMA%20-%20PROCESSOS%20FIM.jpg" alt="screenshot-2" width="500">
 
-# Copy the file that contains secrets
-cp app.example.json app.json
 
-# Run the app with Expo
-yarn start
-```
 
 The [Expo](https://expo.io) packager will show, and you can either:
 
@@ -102,5 +89,9 @@ The codebase unfortunately isn't much covered by tests. Check out the `*.spec.ts
 GPL-3.0. See [LICENSE](./LICENSE) file for more information.
 
 ## :star: Credits
+
+
+
+![thena|420x397](https://github.com/Arthur756/Athena/blob/233627276ddd60c278622738ffd2fa9234c6fbac/ATHENA%20LOGO.jpg)
 
 Created with pride by Arthur Belfort.
