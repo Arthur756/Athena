@@ -10,17 +10,6 @@ Athena
 
 <br />
 
-<p align="center">
-  <a href="https://itunes.apple.com/us/app/s-i-smoke/id1365605567?mt=8">
-    <img alt="app-store" src="https://shootismoke.github.io/assets/images/app-store.png" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.shitismoke.app">
-    <img alt="google-play" src="https://shootismoke.github.io/assets/images/play-store.png" />
-  </a>
-</p>
-
-<br />
-
 ---
 
 <p align="center">
